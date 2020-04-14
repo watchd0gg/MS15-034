@@ -1,5 +1,5 @@
 # written by john.b.hale@gmail.com - 2015-04-15
-# args added and reformated by Juan Cruz Tommasi - b4sec - 13/04/2020
+# args added and reformated by watchd0g 13/04/2020
 # usage for poc: python xploit.py -t <hostAddr> -p <port>
 # exploiting usage: python xploit.py -t <hostAddr> -p <port> --exploit
 
